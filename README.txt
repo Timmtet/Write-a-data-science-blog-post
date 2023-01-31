@@ -4,7 +4,7 @@ Table of Content
 2. Project Motivation
 3. File Descriptions
 4. Results
-5. Licensing, Authors, and Acknowledgements.....,,...
+5. Licensing, Authors, and Acknowledgements.....,,....
 
 
 1. Installations
