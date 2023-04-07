@@ -1,4 +1,4 @@
-Table of Content
+Table of Content.
 
 1. Installations
 2. Project Motivation
