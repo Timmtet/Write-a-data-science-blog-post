@@ -1,7 +1,7 @@
 Table of Content
 
 1. Installations
-2. Project Motivation
+2. Project Motivation.
 3. File Descriptions
 4. Results
 5. Licensing, Authors, and Acknowledgements.
